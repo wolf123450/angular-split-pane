@@ -13,7 +13,7 @@ You can add angular-split-pane.js by to you project by installing with bower
 
 or with npm
 
-    npm install @shagstrom/angular-split-pane
+    npm install @wolf123450/angular-split-pane
 
 You can get and set component sizes in the object specified by attribute "split-pane-properties".
 
@@ -110,4 +110,3 @@ Here is an example where we are getting and setting component sizes:
 			</script>
 		</body>
 	</html>
-
