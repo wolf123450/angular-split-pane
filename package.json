@@ -11,7 +11,7 @@
   "description": "An AngularJS Split Pane directive",
   "license": "MIT",
   "dependencies":{
-    "split-pane": "0.9.2",
+    "@shagstrom/split-pane": "0.9.2",
     "angular": "^1.2.0"
   }
 }
